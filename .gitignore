@@ -1,0 +1,8 @@
+# ignore .idea folder
+/.idea
+# ignore all files and folders in files_folder
+files_folder/
+# ignore only txt files in catalog folder
+catalog/*.txt
+# ignore file called file_to_hide
+file_to_hide.txt
